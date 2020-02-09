@@ -1,1 +1,1 @@
-# udemy-react-redux-tutorial
+# learning-react-redux
